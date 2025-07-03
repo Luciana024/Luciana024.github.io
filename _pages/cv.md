@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Geospatial Data Science, University of Glasgow, 2028 (expected)
+* Ph.D. in Statistics, University of Glasgow, (Oct 2024 – May 2025)
+* M.Sc. in Applied Statistics (Biostatistics), University of Liverpool, 2024
+* B.Sc. in Applied Mathematics and Statistics, University of Wisconsin, 2022
+* B.Sc. in Economic Statistics, Suzhou Institute of Industrial Technology, 2022
 
 Work experience
 ======
