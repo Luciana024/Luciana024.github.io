@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Fengjiao Li"
 title_separator          : "-"
-name                     : &name "Fengjiao Li 李凤娇"
+name                     : &name "**Fengjiao Li 李凤娇**"
 description              : &description "personal description"
 url                      : https://luciana024.github.io # 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "  avatar           : "profile.png""
+  avatar           : "IMG_2768.jpeg"
   name             : "Fengjiao Li/李凤娇"
   pronouns         : "She/Her"  
   bio              : "Ph.D. student at UofG"
