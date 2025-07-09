@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Fengjiao Li / Site Title"
+title                    : "Fengjiao Li"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Fengjiao Li 李凤娇"
 description              : &description "personal description"
 url                      : https://luciana024.github.io # 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Fengjiao Li/李凤娇"
+  pronouns         : "she/her"  
+  bio              : "Ph.D. student at UofG"
+  location         : "Glasgow, UK"
+  employer         : "University of Glasgow"
+  uri              : "https://www.gla.ac.uk/pgrs/fengjiaoli/"
+  email            : "f.li.3@research.gla.ac.uk" 
 
   # Academic websites
   academia         : # URL
