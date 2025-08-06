@@ -15,21 +15,30 @@ name                     : &name "**Fengjiao Li 李凤娇**"
 description              : &description "personal description"
 url                      : https://luciana024.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+# -------------------------------------
+# 🔄 把下面两处粘进 _config.yml
+# -------------------------------------
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# ① 关闭 GitHub 图标 —— 令 repository 为空
+repository: ""   # 或直接整行加 # 注释也行
+
+# ② 让所有不想要的平台显式为 null
 author:
-  # Biographic information
-  avatar           : "IMG_2768.jpeg"
-  name             : "Fengjiao Li/李凤娇"
-  pronouns         : "She/Her"  
-  bio              : "Ph.D. student at UofG"
-  location         : "Glasgow, UK"
-  employer         : "University of Glasgow"
-  uri              : "https://www.gla.ac.uk/pgrs/fengjiaoli/"
-  email            : "f.li.3@research.gla.ac.uk" 
+  avatar   : "IMG_2768.jpeg"
+  name     : "Fengjiao Li/李凤娇"
+  pronouns : "She/Her"
+  bio      : "Ph.D. student at UofG"
+  location : "Glasgow, UK"
+  employer : "University of Glasgow"
+  uri      : "https://www.gla.ac.uk/pgrs/fengjiaoli/"
+  email    : "f.li.3@research.gla.ac.uk"
+
+  # 🔻 把下面 5 行加进来，值写 null
+  googlescholar : null
+  orcid         : null
+  pubmed        : null
+  github        : null
+  bluesky       : null
 
 
   # Repositories and software development
@@ -309,9 +318,5 @@ tag_archive:
 compress_html:
   clippings: all
   ignore:
-    envs: development  # 我不想显示多余图标
-# ORCID
-# PubMed
-# GitHub
-# Bluesky
+    envs: development  
 
