@@ -32,17 +32,7 @@ author:
   employer : "University of Glasgow"
   uri      : "https://www.gla.ac.uk/pgrs/fengjiaoli/"
   email    : "f.li.3@research.gla.ac.uk"
-
-  # 🔻 把下面 5 行加进来，值写 null
-  googlescholar : null
-  orcid         : null
-  pubmed        : null
-  github        : null
-  bluesky       : null
-
-
-  # Repositories and software development
-  #github           : "https://github.com/Luciana024"
+  github           : "https://github.com/Luciana024"
 
 # Publication Category - The following the list of publication categories and their headings
 #publication_category:
