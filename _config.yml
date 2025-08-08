@@ -6,7 +6,7 @@ name                     : &name "**Fengjiao Li 李凤娇**"
 description              : &description "personal description"
 url                      : https://luciana024.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-theme: minimal-mistakes-jekyll
+theme                    : minimal-mistakes-jekyll
 author:
   avatar   : "IMG_2768.jpeg"
   name     : "Fengjiao Li/李凤娇"
@@ -16,7 +16,7 @@ author:
   employer : "University of Glasgow"
   uri      : "https://www.gla.ac.uk/pgrs/fengjiaoli/"
   email    : "f.li.3@research.gla.ac.uk"
-  github: "Luciana024"
+  github   : "Luciana024"
   googlescholar    : ""
   orcid            : ""
   pubmed           : ""
