@@ -15,11 +15,8 @@ name                     : &name "**Fengjiao Li 李凤娇**"
 description              : &description "personal description"
 url                      : https://luciana024.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-# -------------------------------------
-# 🔄 把下面两处粘进 _config.yml
-# -------------------------------------
 
-# ① 关闭 GitHub 图标 —— 令 repository 为空
+
 repository: ""   # 或直接整行加 # 注释也行
 
 # ② 让所有不想要的平台显式为 null
@@ -32,7 +29,7 @@ author:
   employer : "University of Glasgow"
   uri      : "https://www.gla.ac.uk/pgrs/fengjiaoli/"
   email    : "f.li.3@research.gla.ac.uk"
-  github           : "https://github.com/Luciana024"
+  github   : "https://github.com/Luciana024"
 
 # Publication Category - The following the list of publication categories and their headings
 #publication_category:
