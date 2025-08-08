@@ -16,10 +16,6 @@ description              : &description "personal description"
 url                      : https://luciana024.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
-
-repository: ""   # 或直接整行加 # 注释也行
-
-# ② 让所有不想要的平台显式为 null
 author:
   avatar   : "IMG_2768.jpeg"
   name     : "Fengjiao Li/李凤娇"
