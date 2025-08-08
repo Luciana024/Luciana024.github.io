@@ -19,21 +19,21 @@ Education
 
 Work experience
 ======
-* 06/2025 - Present: Research Assistant & Teaching Assistant
-  * University of Glasgow
+* 06/2025 - Present: **Research Assistant & Teaching Assistant**
+  * [**University of Glasgow**](https://www.gla.ac.uk/)
     
-* 12/2023 – 09/2024: Biostatistician  
-  * [**Zenith CRO**](http://www.zenithcro.com/))  
+* 12/2023 – 09/2024: **Biostatistician**  
+  * [**Zenith CRO**](http://www.zenithcro.com/)
   * Duties included: Participated in multiple clinical trial projects, responsible for full-cycle statistical analysis including SAP development, randomization implementation, and final report writing; designed and reviewed SAPs; executed randomization/blinding; authored and reviewed SARs; collaborated with data management; verified TFLs; participated in/led data review meetings.
     
-* 09/2022 - 05/2024: Teaching Assistant
-  * Xi’an Jiaotong–Liverpool University
+* 09/2022 - 05/2024: **Teaching Assistant**
+  * [**Xi’an Jiaotong–Liverpool University**](https://www.xjtlu.edu.cn/zh)
     
-* 06/2023 – 10/2023: Biostatistician  
+* 06/2023 – 10/2023: **Biostatistician**  
   * [**Transcenta**](https://www.transcenta.com/)  
   * Duties included: Reviewed SAPs; provided statistical support for protocols, graphs, tables, and reports; assisted in sample size calculations; reviewed CRFs; advised on database design; ensured data quality; contributed to statistical design of clinical research projects.
 
-* 10/2021 – 04/2022: SAS Programmer  
+* 10/2021 – 04/2022: **SAS Programmer**  
   * [**ClinChoice**](https://www.clinchoice.com/)  
   * Duties included: Programmed in SAS to manipulate and analyze biomedical data; reported results to project leaders.
 
