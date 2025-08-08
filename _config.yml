@@ -31,6 +31,25 @@ author:
   email    : "f.li.3@research.gla.ac.uk"
   github   : "https://github.com/Luciana024"
 
+  academia         : 
+  arxiv            : 
+  googlescholar    : 
+  inspire-hep      : 
+  impactstory      : 
+  orcid            : 
+  semantic         : 
+  pubmed           : 
+  researchgate     :
+  scopus           : 
+
+  # Repositories and software development
+  bitbucket        : 
+  codepen          : 
+  dribbble         : 
+  github           : "https://github.com/Luciana024"
+ 
+  # Social media
+  bluesky          : 
 # Publication Category - The following the list of publication categories and their headings
 #publication_category:
   #books:
