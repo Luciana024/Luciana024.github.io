@@ -43,6 +43,6 @@ I also served as a **Teaching Assistant** & **Research Assistant** at *Xi’an J
 📍 **Location**: Glasgow, UK  
 🏛️ **Institution**: [University of Glasgow](https://www.gla.ac.uk/pgrs/fengjiaoli/)  
 📬 **Email**: f.li.3@research.gla.ac.uk  
-📄 [Download CV (PDF)](/files/cv.pdf)
+📄 [Download CV (PDF)](/files/Fengjiao Li-CV.pdf)
 
 ---
