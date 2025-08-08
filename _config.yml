@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_2768.jpeg"
+  avatar           : "IMG_2768.png"
   name             : "Fengjiao Li/李凤娇"
   pronouns         : "She/Her"  
   bio              : "Ph.D. student at UofG"
