@@ -4,7 +4,7 @@ title                    : "Fengjiao Li"
 title_separator          : "-"
 name                     : &name "**Fengjiao Li 李凤娇**"
 description              : &description "personal description"
-url                      : https://luciana024.github.io 
+url                      : "https://luciana024.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
