@@ -19,48 +19,27 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 06/2025 - Present: Research Assistant & Teaching Assistant
+  * University of Glasgow
+    
+* 12/2023 – 09/2024: Biostatistician  
+  * [**Zenith CRO**](http://www.zenithcro.com/))  
+  * Duties included: Participated in multiple clinical trial projects, responsible for full-cycle statistical analysis including SAP development, randomization implementation, and final report writing; designed and reviewed SAPs; executed randomization/blinding; authored and reviewed SARs; collaborated with data management; verified TFLs; participated in/led data review meetings.
+    
+* 09/2022 - 05/2024: Teaching Assistant
+  * Xi’an Jiaotong–Liverpool University
+    
+* 06/2023 – 10/2023: Biostatistician  
+  * [**Transcenta**](https://www.transcenta.com/)  
+  * Duties included: Reviewed SAPs; provided statistical support for protocols, graphs, tables, and reports; assisted in sample size calculations; reviewed CRFs; advised on database design; ensured data quality; contributed to statistical design of clinical research projects.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 10/2021 – 04/2022: SAS Programmer  
+  * [**ClinChoice**](https://www.clinchoice.com/)  
+  * Duties included: Programmed in SAS to manipulate and analyze biomedical data; reported results to project leaders.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Coding Skills：R; SAS; Python
+* Data Analysis：SPSS; EViews
+ 
