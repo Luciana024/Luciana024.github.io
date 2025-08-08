@@ -23,7 +23,9 @@ By combining insights from **statistics**, **epidemiology**, and **geographical 
 - Graph Neural Networks (GNNs)   
 - Population Dynamics Modeling  
 - Machine Learning for Health & Mobility Data  
-- Spatial Statistics & Bayesian Spatial Models 
+- Spatial Statistics & Bayesian Spatial Models
+
+  
 ---
 
 ### 💼 Professional Experience
