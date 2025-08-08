@@ -15,7 +15,7 @@ Education
 * Ph.D. in Statistics, University of Glasgow, (Oct 2024 – May 2025)
 * M.Sc. in Applied Statistics (Biostatistics), University of Liverpool, 2024
 * B.Sc. in Applied Mathematics and Statistics, University of Wisconsin, 2022
-* B.Sc. in Economic Statistics, Suzhou Institute of Industrial Technology, 2022
+* B.Sc. in Economic Statistics, Suzhou University of Technolog, 2022
 
 Work experience
 ======
