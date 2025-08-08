@@ -6,22 +6,20 @@ name                     : &name "**Fengjiao Li 李凤娇**"
 description              : &description "personal description"
 url                      : https://luciana024.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-theme                    : minimal-mistakes-jekyll
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  #avatar   : "IMG_2768.jpeg"
-  name     : "Fengjiao Li/李凤娇"
-  pronouns : "She/Her"
-  bio      : "Ph.D. student at UofG"
-  location : "Glasgow, UK"
-  employer : "University of Glasgow"
-  uri      : "https://www.gla.ac.uk/pgrs/fengjiaoli/"
-  email    : "f.li.3@research.gla.ac.uk"
-  github   : "Luciana024"
-  googlescholar    : ""
-  orcid            : ""
-  pubmed           : ""
-  bluesky          : ""
-  instagram        : "luciana_li_"
+  # Biographic information
+  avatar           : "IMG_2768.jpeg"
+  name             : "Fengjiao Li/李凤娇"
+  pronouns         : "She/Her"  
+  bio              : "Ph.D. student at UofG"
+  location         : "Glasgow, UK"
+  employer         : "University of Glasgow"
+  uri              : "https://www.gla.ac.uk/pgrs/fengjiaoli/"
+  email            : "f.li.3@research.gla.ac.uk" 
+  github           : "Luciana024"
 # Publication Category - The following the list of publication categories and their headings
 #publication_category:
   #books:
