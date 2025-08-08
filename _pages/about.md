@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m **Fengjiao Li**, a **PhD student in Geospatial Data Science** at the **University of Glasgow**, with a strong academic background in **Statistics**.
+Welcome! I’m **Fengjiao Li**, a **PhD student in Geospatial Data Science** at the **University of Glasgow**, fully funded by the **China Scholarship Council (CSC)**, with a strong academic background in **Statistics**.
 
 My research lies at the intersection of **Geospatial Artificial Intelligence (GeoAI)**, **spatial statistics**, and **machine learning**, with a particular focus on developing advanced **Graph Neural Network (GNN)** models for analyzing **spatial and dynamic population processes**. Drawing on my **statistical training**, I aim to create **interpretable**, **robust**, and **scalable** methods for understanding how **populations move** and how **diseases spread** over space and time.
 
