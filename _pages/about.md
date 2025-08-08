@@ -34,7 +34,7 @@ I’ve worked as a **biostatistician** in several clinical trial projects, where
 - Programming (SAS & R)  
 - Data validation and final reporting
 
-I also served as a **Teaching Assistant** & ** Research Assistant**at *Xi’an Jiaotong–Liverpool University* and *University of Glasgow*, supporting courses in statistics and data science.
+I also served as a **Teaching Assistant** & **Research Assistant** at *Xi’an Jiaotong–Liverpool University* and *University of Glasgow*, supporting courses in statistics and data science.
 
 ---
 
