@@ -7,42 +7,34 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m **Fengjiao Li**, a PhD student in *Geospatial Data Science* at the University of Glasgow.
+Welcome! I’m **Fengjiao Li**, a **PhD student in Geospatial Data Science** at the **University of Glasgow**, with a strong academic background in **Statistics**.
 
-My research focuses on **Geospatial Artificial Intelligence (GeoAI)** and the development of **Graph Neural Networks (GNNs)** tailored for **spatial and dynamic population modeling**, especially in the context of **health risk analysis**. My doctoral work aims to embed spatial intelligence into neural network architectures to better understand population movement and disease distribution over time.
+My research lies at the intersection of **Geospatial Artificial Intelligence (GeoAI)**, **spatial statistics**, and **machine learning**, with a particular focus on developing advanced **Graph Neural Network (GNN)** models for analyzing **spatial and dynamic population processes**. Drawing on my **statistical training**, I aim to create **interpretable**, **robust**, and **scalable** methods for understanding how **populations move** and how **diseases spread** over space and time.
+
+My current doctoral project focuses on embedding **spatial structures**, **population mobility**, and **temporal dynamics** into neural network architectures to support **health risk analysis** in **urban environments**. I work on integrating **statistical reasoning** with **AI-driven models** to improve **epidemic modeling**, **risk prediction**, and **intervention planning**.
+
+By combining insights from **statistics**, **epidemiology**, and **geographical data science**, I strive to develop **data-driven tools** that are not only **technically rigorous** but also **practically useful** for **public health decision-making**.
 
 ---
 
 ### 🧠 Research Interests
 
 - Geospatial Artificial Intelligence (GeoAI)  
-- Graph Neural Networks (GNNs)  
-- Spatial Statistics & Bayesian Spatial Models  
+- Graph Neural Networks (GNNs)   
 - Population Dynamics Modeling  
 - Machine Learning for Health & Mobility Data  
-
----
-
-### 🎓 Academic Background
-
-I hold an MSc in **Applied Statistics (Biostatistics)** from the University of Liverpool.  
-Previously, I earned my undergraduate degree and gained interdisciplinary experience across:
-
-- **Single-cell RNA batch effect correction**
-- **3D printing data analysis**
-- **Innovation performance in manufacturing enterprises**
-
+- Spatial Statistics & Bayesian Spatial Models 
 ---
 
 ### 💼 Professional Experience
 
 I’ve worked as a **biostatistician** in several clinical trial projects, where I contributed to:
 
-- Statistical analysis planning  
+- Statistical analysis planning & Methodology
 - Programming (SAS & R)  
 - Data validation and final reporting
 
-I also served as a **teaching assistant** at *Xi’an Jiaotong–Liverpool University*, supporting courses in statistics and data science.
+I also served as a **Teaching Assistant** & ** Research Assistant**at *Xi’an Jiaotong–Liverpool University* and *University of Glasgow*, supporting courses in statistics and data science.
 
 ---
 
