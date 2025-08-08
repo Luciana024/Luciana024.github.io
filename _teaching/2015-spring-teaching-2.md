@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Research on 3D Printing"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Research Project"
+permalink: /teaching/2022-09-3d-printing
+venue: "Shanghai Jiao Tong University, 3D Printing Laboratory"
+date: 2022-09-01
+location: "Shanghai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This research project was conducted as part of Professor Wang Jinwu's team at Shanghai Jiao Tong University.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+### Responsibilities
+- Participate in the 3D printing research project led by Professor Wang Jinwu.
+- Take charge of data analysis tasks at the 3D Printing Laboratory.
