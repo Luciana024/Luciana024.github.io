@@ -26,9 +26,12 @@ author:
   employer : "University of Glasgow"
   uri      : "https://www.gla.ac.uk/pgrs/fengjiaoli/"
   email    : "f.li.3@research.gla.ac.uk"
-  github   : "https://github.com/Luciana024"
   github: Luciana024
-  
+  googlescholar    : ""
+  orcid            : ""
+  pubmed           : ""
+  bluesky          : ""
+  instgram          : "luciana_li_"
 # Publication Category - The following the list of publication categories and their headings
 #publication_category:
   #books:
