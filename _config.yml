@@ -8,7 +8,7 @@ url                      : https://luciana024.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 theme                    : minimal-mistakes-jekyll
 author:
-  avatar   : "IMG_2768.jpeg"
+  #avatar   : "IMG_2768.jpeg"
   name     : "Fengjiao Li/李凤娇"
   pronouns : "She/Her"
   bio      : "Ph.D. student at UofG"
